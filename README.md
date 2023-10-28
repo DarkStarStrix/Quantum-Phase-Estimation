@@ -1,3 +1,4 @@
 # Quantum-Phase-Estimation
 In quantum computing, the quantum phase estimation algorithm is a quantum algorithm to estimate the phase corresponding to an eigenvalue of a given unitary operator. Because the eigenvalues of a unitary operator always have unit modulus, they are characterized by their phase, and therefore the algorithm can be equivalently described as retrieving either the phase or the eigenvalue itself. The algorithm was initially introduced by Alexei Kitaev in 1995.[1][2]: 246 
 Phase estimation is frequently used as a subroutine in other quantum algorithms, such as Shor's algorithm, the quantum algorithm for linear systems of equations, and the quantum counting algorithm.
+![quantum2](https://github.com/DarkStarStrix/Quantum-Phase-Estimation/assets/108637439/ce1fb825-ffd3-4218-adab-f59651884c6b)
